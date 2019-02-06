@@ -81,9 +81,9 @@ function startMatch(){
         seconds = dificult.seconds + 1
         points++
         pointsDiv.innerHTML = points
-        if(points == 2){
+        if(points == 10){
             dificult = lvls.level2
-        }else if(points == 4){
+        }else if(points == 10){
             dificult = lvls.level3
         }
         if(dificult === lvls.level1){
