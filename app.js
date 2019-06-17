@@ -47,10 +47,15 @@ const words = [
     'Rubio',
     'Telescopio',
     'Punto',
-    'Contaminación',
     'Tripa',
     'Sendero',
-    'Verso'
+    'Verso',
+    'Golondrina',
+    'Marsupial',
+    'Enchufe',
+    'Gasolina',
+    'Escalera',
+    'Esqueleto'
 ]
 
 function gameOn(){
